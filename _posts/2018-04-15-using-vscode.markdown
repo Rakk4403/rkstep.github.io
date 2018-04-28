@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Emacs유저가 VisualStudio Code를 사용해보았다."
 date:   2018-04-15 16:00:00 +0900
 ---
