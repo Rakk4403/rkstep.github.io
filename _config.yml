@@ -23,6 +23,18 @@ twitter_username: rakk4403
 github_username:  rakk4403
 g-analytics: UA-78999595-2
 
+collections:
+  tags:
+    output: true
+    permalink: /tags/:path/
+
+defaults:
+  - scope:
+      path: ''
+      type: tags
+    values:
+      layout: tag
+
 # Build settings
 markdown: kramdown
 theme: minima
