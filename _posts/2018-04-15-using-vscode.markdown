@@ -3,6 +3,7 @@ layout: post
 comments: true
 title:  "Emacs유저가 VisualStudio Code를 사용해보았다."
 date:   2018-04-15 16:00:00 +0900
+tags: vscode
 ---
 
 최근에 VSCode(Visual Studio Code)에 대한 칭찬히 굉장히 많이 들리길래, 궁금해서 잠깐 접해본 기록을 남겨본다.
